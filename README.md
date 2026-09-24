@@ -35,10 +35,7 @@ To perfrom Fade LED In and Out using Software-Controlled PWM Ramp
 
 
 
-
-
-
-
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3408e169-9a6e-44db-b881-d381294eaf22" />
 
 
 ---
